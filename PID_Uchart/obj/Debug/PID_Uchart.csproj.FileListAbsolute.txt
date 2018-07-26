@@ -1,0 +1,62 @@
+H:\C#上位机资料\PIDUchart\PID_Uchart\PID_Uchart\bin\Debug\PID_Uchart.exe.config
+H:\C#上位机资料\PIDUchart\PID_Uchart\PID_Uchart\bin\Debug\PID_Uchart.exe
+H:\C#上位机资料\PIDUchart\PID_Uchart\PID_Uchart\bin\Debug\PID_Uchart.pdb
+H:\C#上位机资料\PIDUchart\PID_Uchart\PID_Uchart\obj\Debug\PID_Uchart.Form1.resources
+H:\C#上位机资料\PIDUchart\PID_Uchart\PID_Uchart\obj\Debug\PID_Uchart.Properties.Resources.resources
+H:\C#上位机资料\PIDUchart\PID_Uchart\PID_Uchart\obj\Debug\PID_Uchart.csproj.GenerateResource.Cache
+H:\C#上位机资料\PIDUchart\PID_Uchart\PID_Uchart\obj\Debug\PID_Uchart.exe
+H:\C#上位机资料\PIDUchart\PID_Uchart\PID_Uchart\obj\Debug\PID_Uchart.pdb
+H:\C#上位机资料\PIDUchart\PID_Uchart\PID_Uchart\obj\Debug\PID_Uchart.csprojResolveAssemblyReference.cache
+H:\C#上位机资料\PIDUchart\PID_Uchart四线\PID_Uchart\bin\Debug\PID_Uchart.exe.config
+H:\C#上位机资料\PIDUchart\PID_Uchart四线\PID_Uchart\bin\Debug\PID_Uchart.exe
+H:\C#上位机资料\PIDUchart\PID_Uchart四线\PID_Uchart\bin\Debug\PID_Uchart.pdb
+H:\C#上位机资料\PIDUchart\PID_Uchart四线\PID_Uchart\obj\Debug\PID_Uchart.Form1.resources
+H:\C#上位机资料\PIDUchart\PID_Uchart四线\PID_Uchart\obj\Debug\PID_Uchart.Properties.Resources.resources
+H:\C#上位机资料\PIDUchart\PID_Uchart四线\PID_Uchart\obj\Debug\PID_Uchart.csproj.GenerateResource.Cache
+H:\C#上位机资料\PIDUchart\PID_Uchart四线\PID_Uchart\obj\Debug\PID_Uchart.exe
+H:\C#上位机资料\PIDUchart\PID_Uchart四线\PID_Uchart\obj\Debug\PID_Uchart.pdb
+H:\C#上位机资料\PIDUchart\PID_Uchart四线 可以显示符号\PID_Uchart\bin\Debug\PID_Uchart.exe.config
+H:\C#上位机资料\PIDUchart\PID_Uchart四线 可以显示符号\PID_Uchart\obj\Debug\PID_Uchart.exe
+H:\C#上位机资料\PIDUchart\PID_Uchart四线 可以显示符号\PID_Uchart\obj\Debug\PID_Uchart.pdb
+H:\C#上位机资料\PIDUchart\PID_Uchart四线 可以显示符号\PID_Uchart\bin\Debug\PID_Uchart.exe
+H:\C#上位机资料\PIDUchart\PID_Uchart四线 可以显示符号\PID_Uchart\bin\Debug\PID_Uchart.pdb
+H:\C#上位机资料\PIDUchart\PID_Uchart四线 可以显示符号\PID_Uchart\obj\Debug\PID_Uchart.csprojResolveAssemblyReference.cache
+H:\C#上位机资料\PIDUchart\PID_Uchart四线 可以显示符号\PID_Uchart\obj\Debug\PID_Uchart.Form1.resources
+H:\C#上位机资料\PIDUchart\PID_Uchart四线 可以显示符号\PID_Uchart\obj\Debug\PID_Uchart.Properties.Resources.resources
+H:\C#上位机资料\PIDUchart\PID_Uchart四线 可以显示符号\PID_Uchart\obj\Debug\PID_Uchart.csproj.GenerateResource.Cache
+H:\C#上位机资料\PIDUchart\Uchart第二版源代码\PID_Uchart\bin\Debug\PID_Uchart.exe.config
+H:\C#上位机资料\PIDUchart\Uchart第二版源代码\PID_Uchart\obj\Debug\PID_Uchart.exe
+H:\C#上位机资料\PIDUchart\Uchart第二版源代码\PID_Uchart\obj\Debug\PID_Uchart.pdb
+H:\C#上位机资料\PIDUchart\Uchart第二版源代码\PID_Uchart\bin\Debug\PID_Uchart.exe
+H:\C#上位机资料\PIDUchart\Uchart第二版源代码\PID_Uchart\bin\Debug\PID_Uchart.pdb
+H:\C#上位机资料\PIDUchart\Uchart第二版源代码\PID_Uchart\obj\Debug\PID_Uchart.csprojResolveAssemblyReference.cache
+H:\C#上位机资料\PIDUchart\Uchart第二版源代码\PID_Uchart\obj\Debug\PID_Uchart.Form1.resources
+H:\C#上位机资料\PIDUchart\Uchart第二版源代码\PID_Uchart\obj\Debug\PID_Uchart.Properties.Resources.resources
+H:\C#上位机资料\PIDUchart\Uchart第二版源代码\PID_Uchart\obj\Debug\PID_Uchart.csproj.GenerateResource.Cache
+H:\上位机\PIDUchart\Uchart第二版源代码\PID_Uchart\bin\Debug\PID_Uchart.exe.config
+H:\上位机\PIDUchart\Uchart第二版源代码\PID_Uchart\obj\Debug\PID_Uchart.exe
+H:\上位机\PIDUchart\Uchart第二版源代码\PID_Uchart\obj\Debug\PID_Uchart.pdb
+H:\上位机\PIDUchart\Uchart第二版源代码\PID_Uchart\bin\Debug\PID_Uchart.exe
+H:\上位机\PIDUchart\Uchart第二版源代码\PID_Uchart\bin\Debug\PID_Uchart.pdb
+H:\上位机\PIDUchart\Uchart第二版源代码\PID_Uchart\obj\Debug\PID_Uchart.csprojResolveAssemblyReference.cache
+H:\上位机\PIDUchart\Uchart第二版源代码\PID_Uchart\obj\Debug\PID_Uchart.Form1.resources
+H:\上位机\PIDUchart\Uchart第二版源代码\PID_Uchart\obj\Debug\PID_Uchart.Properties.Resources.resources
+H:\上位机\PIDUchart\Uchart第二版源代码\PID_Uchart\obj\Debug\PID_Uchart.csproj.GenerateResource.Cache
+G:\上位机\PIDUchart\Uchart第二版源代码\PID_Uchart\bin\Debug\PID_Uchart.exe.config
+G:\上位机\PIDUchart\Uchart第二版源代码\PID_Uchart\obj\Debug\PID_Uchart.exe
+G:\上位机\PIDUchart\Uchart第二版源代码\PID_Uchart\obj\Debug\PID_Uchart.pdb
+G:\上位机\PIDUchart\Uchart第二版源代码\PID_Uchart\bin\Debug\PID_Uchart.exe
+G:\上位机\PIDUchart\Uchart第二版源代码\PID_Uchart\bin\Debug\PID_Uchart.pdb
+G:\上位机\PIDUchart\Uchart第二版源代码\PID_Uchart\obj\Debug\PID_Uchart.csprojResolveAssemblyReference.cache
+G:\上位机\PIDUchart\Uchart第二版源代码\PID_Uchart\obj\Debug\PID_Uchart.Form1.resources
+G:\上位机\PIDUchart\Uchart第二版源代码\PID_Uchart\obj\Debug\PID_Uchart.Properties.Resources.resources
+G:\上位机\PIDUchart\Uchart第二版源代码\PID_Uchart\obj\Debug\PID_Uchart.csproj.GenerateResource.Cache
+F:\Github\Push_rod_SOFT\PID_Uchart\bin\Debug\PID_Uchart.exe.config
+F:\Github\Push_rod_SOFT\PID_Uchart\obj\Debug\PID_Uchart.exe
+F:\Github\Push_rod_SOFT\PID_Uchart\obj\Debug\PID_Uchart.pdb
+F:\Github\Push_rod_SOFT\PID_Uchart\bin\Debug\PID_Uchart.exe
+F:\Github\Push_rod_SOFT\PID_Uchart\bin\Debug\PID_Uchart.pdb
+F:\Github\Push_rod_SOFT\PID_Uchart\obj\Debug\PID_Uchart.csprojResolveAssemblyReference.cache
+F:\Github\Push_rod_SOFT\PID_Uchart\obj\Debug\PID_Uchart.Form1.resources
+F:\Github\Push_rod_SOFT\PID_Uchart\obj\Debug\PID_Uchart.Properties.Resources.resources
+F:\Github\Push_rod_SOFT\PID_Uchart\obj\Debug\PID_Uchart.csproj.GenerateResource.Cache
